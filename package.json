@@ -1,0 +1,19 @@
+{
+  "name": "gha-node-udemy",
+  "version": "1.0.0",
+  "description": "File related to Udemy course",
+  "license": "ISC",
+  "author": "",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "vitest --run",
+    "lint": "eslint ."
+  },
+  "devDependencies": {
+    "@eslint/js": "^9.39.2",
+    "eslint": "^9.39.2",
+    "globals": "^16.5.0",
+    "vitest": "^4.0.15"
+  }
+}
